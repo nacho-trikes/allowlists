@@ -1,0 +1,24 @@
+! Title: Private Tracker Allowlist 
+! Description: Prevent blocking of private tracker domains and related websites
+# Trackers
+@@||aidoru-online.me^
+@@||aither.cc^
+@@||animetorrents.me^
+@@||animetosho.org^
+@@||avistaz.to^
+@@||bakabt.me^
+@@||blutopia.cc^
+@@||cinemaz.to^
+@@||digitalcore.club^
+@@||lst.gg^
+@@||milkie.cc^
+@@||nyaa.si^
+@@||onlyencodes.cc^
+@@||orpheus.network^
+@@||privatehd.to^
+@@||torrentleech.org^
+# Related sites
+@@||releases.moe^
+@@||thewiki.moe^
+
+
