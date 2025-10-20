@@ -1,7 +1,5 @@
 ! Title: Default Allowlist 
 ! Description: Prevent blocking of listed domains
-@@||usada.ch^$important
-@@||chuu.cc^$important
 @@||builds.hrfee.pw^$important
 @@||quickswap.exchange^$important
 @@||quickswap.stratex.finance^$important
