@@ -5,3 +5,4 @@
 @@||quickswap.stratex.finance^$important
 @@||app.steer.finance^$important
 @@||cache.lol^$important
+@@||u.expo.dev^$important
